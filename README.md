@@ -1,4 +1,5 @@
 Peluquería Canina
+
 Página Principal
 
 <img width="485" height="388" alt="Principal" src="https://github.com/user-attachments/assets/c70a8c58-26cf-4d24-af9b-b6e0def60551" />
