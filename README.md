@@ -1,1 +1,1 @@
-# peluqueriaCanina
+Sistema de Gestión de Peluquería Canina
